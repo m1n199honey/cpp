@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-    cout<<"Happy coding 👍";
+    cout<<"Happy coding 🎈";
     return 0;
 }
